@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Suman5633/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suman5633/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Suman5633/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Suman5633/DSA/tree/master/1518-water-bottles) |
+## Hash Table
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Suman5633/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Suman5633/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
