@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Suman5633/DSA/tree/master/0231-power-of-two) |
+| [1518-water-bottles](https://github.com/Suman5633/DSA/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suman5633/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Suman5633/DSA/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
