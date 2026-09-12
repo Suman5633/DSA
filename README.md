@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Suman5633/DSA/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/Suman5633/DSA/tree/master/0319-bulb-switcher) |
 | [1518-water-bottles](https://github.com/Suman5633/DSA/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Suman5633/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Suman5633/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
