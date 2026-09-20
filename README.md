@@ -73,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
+## Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
