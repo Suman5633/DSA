@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Suman5633/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Suman5633/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suman5633/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Suman5633/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Suman5633/DSA/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/Suman5633/DSA/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
 | ------- |
