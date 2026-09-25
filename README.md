@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Suman5633/DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Suman5633/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suman5633/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Suman5633/DSA/tree/master/1089-duplicate-zeros) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Suman5633/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
