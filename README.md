@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Suman5633/DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suman5633/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suman5633/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Suman5633/DSA/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suman5633/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
 ## Simulation
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
 | [1089-duplicate-zeros](https://github.com/Suman5633/DSA/tree/master/1089-duplicate-zeros) |
 ## Queue
 |  |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suman5633/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
