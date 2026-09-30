@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Suman5633/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suman5633/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Suman5633/DSA/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/Suman5633/DSA/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Suman5633/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Suman5633/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
