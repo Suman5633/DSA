@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Suman5633/DSA/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/Suman5633/DSA/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/Suman5633/DSA/tree/master/0946-validate-stack-sequences) |
+| [1046-last-stone-weight](https://github.com/Suman5633/DSA/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Suman5633/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Suman5633/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Suman5633/DSA/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Suman5633/DSA/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
