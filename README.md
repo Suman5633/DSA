@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Suman5633/DSA/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Suman5633/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Suman5633/DSA/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suman5633/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/Suman5633/DSA/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suman5633/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quicksort
 |  |
 | ------- |
@@ -162,5 +164,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suman5633/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Suman5633/DSA/tree/master/0946-validate-stack-sequences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suman5633/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
