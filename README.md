@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Suman5633/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Suman5633/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suman5633/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/Suman5633/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Suman5633/DSA/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suman5633/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Suman5633/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1408-string-matching-in-an-array](https://github.com/Suman5633/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/Suman5633/DSA/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suman5633/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Suman5633/DSA/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
