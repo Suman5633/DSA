@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Suman5633/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0162-find-peak-element](https://github.com/Suman5633/DSA/tree/master/0162-find-peak-element) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Suman5633/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suman5633/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Suman5633/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suman5633/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Greedy
 |  |
