@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Suman5633/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suman5633/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Suman5633/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
 | ------- |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Suman5633/DSA/tree/master/1408-string-matching-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Suman5633/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
