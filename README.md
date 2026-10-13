@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Suman5633/DSA/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Suman5633/DSA/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Suman5633/DSA/tree/master/0319-bulb-switcher) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Suman5633/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Suman5633/DSA/tree/master/1518-water-bottles) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Suman5633/DSA/tree/master/0279-perfect-squares) |
 | [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -194,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suman5633/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Suman5633/DSA/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Suman5633/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Suman5633/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
