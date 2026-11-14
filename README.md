@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Suman5633/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suman5633/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Suman5633/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -215,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Suman5633/DSA/tree/master/0093-restore-ip-addresses) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Suman5633/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Suman5633/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
