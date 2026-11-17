@@ -129,19 +129,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Suman5633/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Suman5633/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Suman5633/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Suman5633/DSA/tree/master/0279-perfect-squares) |
 | [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Suman5633/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search
 |  |
