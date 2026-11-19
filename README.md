@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Suman5633/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suman5633/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Suman5633/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suman5633/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Suman5633/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Suman5633/DSA/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/Suman5633/DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Suman5633/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Suman5633/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suman5633/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Suman5633/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Suman5633/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
