@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Suman5633/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/Suman5633/DSA/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/Suman5633/DSA/tree/master/1528-shuffle-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Suman5633/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Suman5633/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Suman5633/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Bit Manipulation
