@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Suman5633/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Suman5633/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Suman5633/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suman5633/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Suman5633/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suman5633/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Suman5633/DSA/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Suman5633/DSA/tree/master/0319-bulb-switcher) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Suman5633/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Suman5633/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/Suman5633/DSA/tree/master/1518-water-bottles) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suman5633/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
@@ -240,10 +242,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Suman5633/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suman5633/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Suman5633/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Suman5633/DSA/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Suman5633/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Suman5633/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
