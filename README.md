@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Suman5633/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Suman5633/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Suman5633/DSA/tree/master/0162-find-peak-element) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Suman5633/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Suman5633/DSA/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/Suman5633/DSA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suman5633/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Suman5633/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
