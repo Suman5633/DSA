@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Suman5633/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Suman5633/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Suman5633/DSA/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Suman5633/DSA/tree/master/0200-number-of-islands) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Suman5633/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0455-assign-cookies](https://github.com/Suman5633/DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suman5633/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -154,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Suman5633/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Suman5633/DSA/tree/master/0200-number-of-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Suman5633/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Suman5633/DSA/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Suman5633/DSA/tree/master/0279-perfect-squares) |
 | [1302-deepest-leaves-sum](https://github.com/Suman5633/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Suman5633/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Suman5633/DSA/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Suman5633/DSA/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Suman5633/DSA/tree/master/3934-smallest-unique-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Suman5633/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
