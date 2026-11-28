@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/Suman5633/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/Suman5633/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Suman5633/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Suman5633/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Suman5633/DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Suman5633/DSA/tree/master/1051-height-checker) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Suman5633/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Suman5633/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Suman5633/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Suman5633/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Suman5633/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Suman5633/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Suman5633/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Suman5633/DSA/tree/master/1046-last-stone-weight) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Suman5633/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
 | ------- |
